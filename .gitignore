@@ -1,0 +1,6 @@
+/ChaneParse/bin
+/ChaneParse/obj
+/forchan/obj
+/forchan/bin
+/packages/Newtonsoft.Json.6.0.4
+**/*.suo
